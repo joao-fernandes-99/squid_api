@@ -1,0 +1,19 @@
+
+'''
+***SITES*** CAMINHO DOS ARQUIVOS PARA FILTRO DE SITES NO PROXY SQUID
+'''
+URLECOMMERCE = 'ecommerce.txt'
+REDESSOCIAIS = 'redes_socias.txt'
+SITESPORNOGRAFICOS = 'sites_pornograficos.txt'
+JOGOSONLINE = 'jogos_online.txt'
+
+
+'''
+*** PALAVRAS *** CAMINHOS DO ARQUIVO PARA FILTRO DE PALAVRAS NO PROXY SQUID
+'''
+PALAVRAS_BLOQUEADAS = 'palavras_bloqueadas.txt'
+
+'''
+*** ARQUIVOS *** CAMINHOS DO ARQUIVO PARA FILTRO DE ARQUIVOS NO PROXY SQUID
+'''
+ARQUIVOS = 'arquivos.txt'
